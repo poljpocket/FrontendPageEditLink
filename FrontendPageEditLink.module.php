@@ -12,7 +12,7 @@ class FrontendPageEditLink extends Wire implements Module
             'summary' => __('Adds a floating button with a link to the page editor to every editable page in the frontend.'),
             'author' => 'Julian Pollak',
             'url' => 'https://github.com/poljpocket/FrontendPageEditLink',
-            'version' => 100,
+            'version' => 101,
             'autoload' => true,
             'singular' => true,
             'requires' => [
